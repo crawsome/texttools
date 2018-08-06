@@ -1,6 +1,7 @@
 import textwrap
 from difflib import SequenceMatcher
 
+# a tool for me and my terminal-based python tools I've made
 
 def marqueeprint(text):
     if len(text) % 2 == 0:
